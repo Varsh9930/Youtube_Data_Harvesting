@@ -1,1 +1,2 @@
 # Youtube_Data_Harvesting
+The project Youtube Data Harvesting and Warehousing is about scrapping and collecting datas from multiple youtube channels using Google API to retrieve channel & video data and storing the extracted data as a data lake using MongoDB Atlas. Now its time to migrate the data to SQL data warehouse using SQL tools and create different tables based on the requirements, and as a result we have to showcase all our tables and collected datas as a web page using Streamlit app. Along with that we have been asked to answer ten questions using SQL commands.
